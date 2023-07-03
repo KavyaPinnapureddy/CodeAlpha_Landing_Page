@@ -24,7 +24,7 @@
 }
 
 .body{
-    background: #0e1629;
+    background: #fc0c0c;
     padding: 100px;
     text-align: center;
     display: flex;
@@ -137,7 +137,7 @@
 
 .app{
     color: #fff;
-    background: var(--bs-danger);
+    background: rgb(10, 238, 89); 
     padding: 30px;
     display: flex;
     align-items: center;
